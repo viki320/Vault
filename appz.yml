@@ -1,7 +1,7 @@
 app:
     name: Vault
     code: VAULT
-    notify: vignesh@nainatechnologies.com
+    notify: vignesh@nainatechnologies.com.
 
 build:
     version: 0.4
