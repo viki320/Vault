@@ -11,7 +11,7 @@ build:
     image_template: vault-1.2
 
 deploy:
-    context: viki/DEV
+    context:  viki320/DEV
     type: statefulset
     replicas: 1
     port:
